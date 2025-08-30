@@ -1,7 +1,7 @@
 # HR-ANALYTICS-DASHBOARD
 HR Analytics Dashboard
 
-This project presents an HR Analytics Dashboard designed in Excel/Power BI (specify whichever tool you used). The dashboard provides key insights into employee demographics, attrition trends, and workforce distribution.
+This project presents an HR Analytics Dashboard designed in Power BI. The dashboard provides key insights into employee demographics, attrition trends, and workforce distribution.
 
 Key Features:
 
